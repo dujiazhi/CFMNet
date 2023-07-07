@@ -23,10 +23,11 @@ Detailed description of the system can be found in our paper.
 
 ## Network Architecture:
 ![architecture]( https://github.com/dujiazhi/CFMNet/blob/master/figures/CFMNet.png)  
-## Test FFDNet Models
+## Test CFMNet Models
 * [test.py]( https://github.com/dujiazhi/CFMNet/blob/master/test.py) is the testing demo of CFMNet for denoising images corrupted by AWGN.
 * [train.py]( https://github.com/dujiazhi/CFMNet/blob/master/train.py) is the training demo of CFMNet for denoising images corrupted by AWGN.
-
+## Pretrained models:
+links: https://pan.baidu.com/s/1eyGPfKoIwGgh_EezddZe3Q codes: srtp
 ### Image Denoising for AWGN:
 >### Grayscale Image Denoising:
 ![d](https://github.com/dujiazhi/CFMNet/blob/master/figures/gray.png) 
